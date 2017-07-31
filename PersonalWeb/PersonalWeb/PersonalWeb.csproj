@@ -67,6 +67,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="Properties\PublishProfiles\SUhas.pubxml" />
+    <Content Include="Scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,11 +89,79 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\readme.txt" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="CSS\animate.css" />
+    <Content Include="CSS\bootstrap.css" />
+    <Content Include="CSS\font-awesome.css" />
+    <Content Include="CSS\responsive.css" />
+    <Content Include="CSS\style.css" />
     <Content Include="favicon.ico" />
     <Content Include="favicon.png" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="img\bg-map.png" />
+    <Content Include="img\c-liogo1.png" />
+    <Content Include="img\c-liogo2.png" />
+    <Content Include="img\c-liogo3.png" />
+    <Content Include="img\c-liogo4.png" />
+    <Content Include="img\c-liogo5.png" />
+    <Content Include="img\client-epic1.jpg" />
+    <Content Include="img\client-pic1.jpg" />
+    <Content Include="img\footer-logo.png" />
+    <Content Include="img\Front.png" />
+    <Content Include="img\glyphicons-halflings-white.png" />
+    <Content Include="img\glyphicons-halflings.png" />
+    <Content Include="img\imac.png" />
+    <Content Include="img\iPad.png" />
+    <Content Include="img\iphone.png" />
+    <Content Include="img\list-style.png" />
+    <Content Include="img\logo.png" />
+    <Content Include="img\macbook-pro.png" />
+    <Content Include="img\oyg - Copy.png" />
+    <Content Include="img\Portfolio-pic1.jpg" />
+    <Content Include="img\Portfolio-pic2.jpg" />
+    <Content Include="img\Portfolio-pic3.jpg" />
+    <Content Include="img\Portfolio-pic4.jpg" />
+    <Content Include="img\Portfolio-pic5.jpg" />
+    <Content Include="img\Portfolio-pic6.jpg" />
+    <Content Include="img\pw_maze_black.png" />
+    <Content Include="img\pw_maze_black_2X.png" />
+    <Content Include="img\res_nav_click.png" />
+    <Content Include="img\section-bg1.jpg" />
+    <Content Include="img\section-bg2.jpg" />
+    <Content Include="img\small-lodgo.png" />
+    <Content Include="img\small-log0o.png" />
+    <Content Include="img\small-logo-2.png" />
+    <Content Include="img\small-logo.png" />
+    <Content Include="img\small-red-logo.png" />
+    <Content Include="img\team-leader-pic1 %283%29.jpg" />
+    <Content Include="img\team-leader-pic1.jpg" />
+    <Content Include="img\team-leader-pic2.jpg" />
+    <Content Include="img\team-leader-pic3.jpg" />
+    <Content Include="img\team-leaderd-pic3.jpg" />
+    <Content Include="img\wp.png" />
     <Content Include="Index.html" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\classie.js" />
+    <Content Include="js\html5element.js" />
+    <Content Include="js\html5shiv.js" />
+    <Content Include="js\jquery-scrolltofixed.js" />
+    <Content Include="js\jquery.1.8.3.min.js" />
+    <Content Include="js\jquery.easing.1.3.js" />
+    <Content Include="js\jquery.isotope.js" />
+    <Content Include="js\respond-1.1.0.min.js" />
+    <Content Include="js\wow.js" />
     <Content Include="PIE.htc" />
     <Content Include="readme.txt" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -88,12 +170,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="contactform\" />
-    <Folder Include="Content\" />
-    <Folder Include="CSS\" />
-    <Folder Include="fonts\" />
-    <Folder Include="img\" />
-    <Folder Include="js\" />
-    <Folder Include="Scripts\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
