@@ -69,6 +69,7 @@
     <Content Include="CSS\TimeLine.css" />
     <Content Include="img\macbook-Suhas.png" />
     <Content Include="img\suhas.jpg" />
+    <Content Include="NewIndex.html" />
     <Content Include="packages.config" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
@@ -82,6 +83,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
     <None Include="Properties\PublishProfiles\SUhas.pubxml" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
