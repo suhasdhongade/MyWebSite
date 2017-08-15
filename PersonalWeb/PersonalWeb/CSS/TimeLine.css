@@ -90,11 +90,22 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', endColorstr='#e0eff9', GradientType=1 );
 }
 
+.topDiv9 {
+  background: #6bf155; /* Old Browsers */
+background: -webkit-linear-gradient(bottom,#6bf155,#94ecc7); /*Safari 5.1-6*/
+background: -o-linear-gradient(bottom,#6bf155,#94ecc7); /*Opera 11.1-12*/
+background: -moz-linear-gradient(bottom,#6bf155,#94ecc7); /*Fx 3.6-15*/
+background: linear-gradient(to top, #6bf155, #94ecc7); /*Standard*/
+
+}
+
 .eduBoxShadow {
     -webkit-box-shadow: -2px 6px 17px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: -2px 6px 17px 0px rgba(0,0,0,0.75);
     box-shadow: -2px 6px 17px 0px rgba(0,0,0,0.75);
 }
+
+
 
 .timeLineContainer {
     height: 100vh;
