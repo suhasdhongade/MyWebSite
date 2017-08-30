@@ -68,6 +68,7 @@
   <ItemGroup>
     <Content Include="CSS\education.css" />
     <Content Include="CSS\TimeLine.css" />
+    <Content Include="Examples.html" />
     <Content Include="img\macbook-Suhas.png" />
     <Content Include="img\suhas.jpg" />
     <Content Include="NewIndex.html" />
