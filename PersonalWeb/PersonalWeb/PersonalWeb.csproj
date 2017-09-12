@@ -67,11 +67,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CSS\education.css" />
-    <Content Include="CSS\HoneyComb.css" />
     <Content Include="CSS\TimeLine.css" />
-    <Content Include="CSS\xx.css" />
     <Content Include="Examples.html" />
-    <Content Include="Home.html" />
     <Content Include="img\honeycomb_communications_homepage.jpg" />
     <Content Include="img\macbook-Suhas.png" />
     <Content Include="img\suhas.jpg" />
