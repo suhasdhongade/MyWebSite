@@ -67,8 +67,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CSS\education.css" />
+    <Content Include="CSS\HoneyComb.css" />
     <Content Include="CSS\TimeLine.css" />
+    <Content Include="CSS\xx.css" />
     <Content Include="Examples.html" />
+    <Content Include="Home.html" />
+    <Content Include="img\honeycomb_communications_homepage.jpg" />
     <Content Include="img\macbook-Suhas.png" />
     <Content Include="img\suhas.jpg" />
     <Content Include="NewIndex.html" />
@@ -83,6 +87,7 @@
     <Content Include="fonts\FontAwesome.otf" />
     <Content Include="fonts\fontawesome-webfont.woff2" />
     <None Include="Properties\PublishProfiles\SUhas.pubxml" />
+    <Content Include="Profile.html" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
